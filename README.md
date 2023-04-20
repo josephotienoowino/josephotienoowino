@@ -8,6 +8,14 @@
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/josephotienoowino?color=green&logo=github">
   </a>
 </p>
+<p align=left>
+  <a href="https://github.com/josephotienoowino/github-readme-stats" title="Go to Source">
+    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=josephotienoowino&show_icons=true&theme=vue">
+  </a>
+  <a href="https://github.com/josephotienoowino/github-readme-stats">
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephotienoowino&hide=c%23,powershell,java&title_color=2aa889&text_color=000&icon_color=2bbc8a&bg_color=fff&langs_count=8&layout=compact"/>
+  </a>
+</p>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -88,3 +96,14 @@
 <code > <img height = "70" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" > </code >
 <code > <img height = "70" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png" > </code >
 
+## Tutorials
+### 1. [End-to-End Speech Recognition Guide in Python](https://www.section.io/engineering-education/end-to-end-speech-recognition-guide-in-python/)
+### 2. [How to Build a URL Shortener Web App With Flask Framework](https://dzone.com/articles/how-to-build-a-url-shortener-web-app-with-flask-fr)
+### 3. [Facial Recognition and Identification in Computer Vision](https://dzone.com/articles/facial-recognition-and-identification-in-computer)
+### 4. [Top 10 Best Practices for Scaling Your Application: Expert Tips for Optimizing Performance and Ensuring Reliability](https://dzone.com/articles/top-10-best-practices-for-scaling-your-application)
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
