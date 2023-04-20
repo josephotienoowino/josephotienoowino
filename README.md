@@ -85,7 +85,7 @@
 </table>  
 <br/>  
 
-
+<!-- 
 ## Languages and Tools
 <code > <img height = "70" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" > </code >
 <code > <img height = "70" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSpf7tA4zJiB29UnCF_7TS4C7Wzwa9KmR5Bg&usqp=CAU" > </code >
@@ -95,12 +95,12 @@
 <code > <img height = "70" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png" > </code >
 <code > <img height = "70" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" > </code >
 <code > <img height = "70" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png" > </code >
-
+ -->
 ## Tutorials
-### 1. [End-to-End Speech Recognition Guide in Python](https://www.section.io/engineering-education/end-to-end-speech-recognition-guide-in-python/)
-### 2. [How to Build a URL Shortener Web App With Flask Framework](https://dzone.com/articles/how-to-build-a-url-shortener-web-app-with-flask-fr)
-### 3. [Facial Recognition and Identification in Computer Vision](https://dzone.com/articles/facial-recognition-and-identification-in-computer)
-### 4. [Top 10 Best Practices for Scaling Your Application: Expert Tips for Optimizing Performance and Ensuring Reliability](https://dzone.com/articles/top-10-best-practices-for-scaling-your-application)
+1. [End-to-End Speech Recognition Guide in Python](https://www.section.io/engineering-education/end-to-end-speech-recognition-guide-in-python/)
+2. [How to Build a URL Shortener Web App With Flask Framework](https://dzone.com/articles/how-to-build-a-url-shortener-web-app-with-flask-fr)
+3. [Facial Recognition and Identification in Computer Vision](https://dzone.com/articles/facial-recognition-and-identification-in-computer)
+4. [Top 10 Best Practices for Scaling Your Application: Expert Tips for Optimizing Performance and Ensuring Reliability](https://dzone.com/articles/top-10-best-practices-for-scaling-your-application)
 []()
 []()
 []()
