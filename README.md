@@ -8,7 +8,7 @@
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/josephotienoowino?color=green&logo=github">
   </a>
 </p>
-<p align=left>
+<!-- <p align=left>
   <a href="https://github.com/josephotienoowino/github-readme-stats" title="Go to Source">
     <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=josephotienoowino&show_icons=true&theme=vue">
   </a>
@@ -16,7 +16,7 @@
   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephotienoowino&hide=c%23,powershell,java&title_color=2aa889&text_color=000&icon_color=2bbc8a&bg_color=fff&langs_count=8&layout=compact"/>
   </a>
 </p>
-
+ -->
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
   
